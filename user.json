@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nickname": "admin",
+            "email": "admin@test.com",
+            "password": "admintest",
+            "type": 1
+        },
+        {
+            "id": 2,
+            "nickname": "jon",
+            "email": "jonyang@test.com",
+            "password": "jonyangtest",
+            "type": 0
+        }
+    ]
+}
